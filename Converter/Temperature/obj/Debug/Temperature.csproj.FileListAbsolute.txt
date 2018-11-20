@@ -1,0 +1,5 @@
+D:\Programing\C_Cpp\Projects\Converter\Temperature\bin\Debug\Temperature.dll
+D:\Programing\C_Cpp\Projects\Converter\Temperature\bin\Debug\Temperature.pdb
+D:\Programing\C_Cpp\Projects\Converter\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+D:\Programing\C_Cpp\Projects\Converter\Temperature\obj\Debug\Temperature.dll
+D:\Programing\C_Cpp\Projects\Converter\Temperature\obj\Debug\Temperature.pdb

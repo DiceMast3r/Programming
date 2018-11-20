@@ -1,0 +1,6 @@
+D:\Programing\C_Cpp\Projects\Converter\Length\bin\Debug\Length.dll
+D:\Programing\C_Cpp\Projects\Converter\Length\bin\Debug\Length.pdb
+D:\Programing\C_Cpp\Projects\Converter\Length\obj\Debug\Length.csprojAssemblyReference.cache
+D:\Programing\C_Cpp\Projects\Converter\Length\obj\Debug\Length.csproj.CoreCompileInputs.cache
+D:\Programing\C_Cpp\Projects\Converter\Length\obj\Debug\Length.dll
+D:\Programing\C_Cpp\Projects\Converter\Length\obj\Debug\Length.pdb
