@@ -1,0 +1,5 @@
+D:\Programing\C_Cpp\Projects\Converter\Time\bin\Debug\Time.dll
+D:\Programing\C_Cpp\Projects\Converter\Time\bin\Debug\Time.pdb
+D:\Programing\C_Cpp\Projects\Converter\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+D:\Programing\C_Cpp\Projects\Converter\Time\obj\Debug\Time.dll
+D:\Programing\C_Cpp\Projects\Converter\Time\obj\Debug\Time.pdb

@@ -1,0 +1,14 @@
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Converter.exe.config
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Converter.exe
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Converter.pdb
+D:\Programing\C_Cpp\Projects\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+D:\Programing\C_Cpp\Projects\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\Programing\C_Cpp\Projects\Converter\Converter\obj\Debug\Converter.exe
+D:\Programing\C_Cpp\Projects\Converter\Converter\obj\Debug\Converter.pdb
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Length.dll
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Temperature.dll
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Time.dll
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Length.pdb
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Temperature.pdb
+D:\Programing\C_Cpp\Projects\Converter\Converter\bin\Debug\Time.pdb
+D:\Programing\C_Cpp\Projects\Converter\Converter\obj\Debug\Converter.csproj.CopyComplete
